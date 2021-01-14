@@ -1,16 +1,11 @@
-# Node.js Rest APIs with Express & MySQL example
+# Node.js Rest APIs com Express & MySQL
 
-For more detail, please visit:
-> [Build Node.js Rest APIs with Express & MySQL](https://bezkoder.com/node-js-rest-api-express-mysql/)
-
-> [Deploying/Hosting Node.js app on Heroku with MySQL database](https://bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/)
-
-## Project setup
+## Iniciando o Projeto
 ```
 npm install
 ```
 
-### Run
+### Para executar o projeto digite o comando abaixo.
 ```
 node server.js
 ```
